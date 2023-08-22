@@ -25,3 +25,8 @@ El juego de adivinar palabras es una aplicación interactiva en la que el jugado
 2. Sigue las instrucciones en pantalla para jugar al juego de adivinar palabras.
 3. Ingresa letras para intentar adivinar la palabra oculta.
 4. ¡Diviértete adivinando palabras!
+
+
+## Deploy
+
+El despliegue del proyecto lo puedes ver en <a href="https://desanlesr95.github.io/Wordle/">https://desanlesr95.github.io/Wordle/</a>
